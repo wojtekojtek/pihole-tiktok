@@ -10105,3 +10105,6 @@
 0.0.0.0 search32-normal-no1a.tiktokv.eu
 0.0.0.0 log16-normal-no1a.tiktokv.eu
 0.0.0.0 api32-normal-no1a.tiktokv.eu
+0.0.0.0 c2pa-cloud-server-ttp2.tiktokv.eu
+0.0.0.0 tnc19-normal-no1a.tiktokv.eu
+0.0.0.0 reqhfg-launches.appflyersdk.com
